@@ -1,0 +1,87 @@
+h1 {
+color : white;
+}
+body {
+background-color : #292929;
+font-family : 'Lato', sans-serif;
+}
+header h1 {
+font-size : 300%;
+color : white;
+text-shadow : 3px 3px 3px #294777;
+}
+ul {
+background : white;
+padding : 15px;
+border : #294777 solid 4px;
+background-color : #36404F;
+position : relative;
+bottom : 10px;
+}
+ul li {
+background : white;
+padding : 15px;
+border : #294777 solid 4px;
+display : block;
+background-color : rgb(128, 128, 128, 0.6);
+position : relative;
+}
+ul li a {
+color : white;
+text-shadow : 1px 1px 1px #000000;
+text-decoration : none;
+padding : 5px;
+}
+ul li a:hover {
+color : white;
+}
+section article {
+border : #294777 solid 4px;
+border-radius : 10px 20px 20px 20px;
+margin : 5px 10px 5px 10px;
+padding : 10px;
+background : white;
+background-color : #36404F;
+width : 920px;
+line-height : 20px;
+}
+footer {
+background : #294777;
+clear : both;
+}
+footer h3 {
+text-align : center;
+font-weight : normal;
+font-size : 70%;
+}
+p {
+color : white;
+}
+h2 {
+color : white;
+}
+h3 {
+color : white;
+}
+#Menu {
+  float: left;
+}
+iframe {
+width : 1070px;
+height : 450px;
+border-radius : 10px 20px 20px 20px;
+border : #294777 solid 4px;
+float: right;
+clear: left;
+}
+img {
+width : 350px;
+height : 100px;
+float: left;
+clear: left;
+}
+article{
+  position: relative;
+  left: 50%;
+  right: 50%;
+}
